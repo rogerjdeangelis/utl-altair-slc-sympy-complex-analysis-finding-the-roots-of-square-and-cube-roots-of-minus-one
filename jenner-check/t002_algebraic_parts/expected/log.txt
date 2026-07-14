@@ -1,0 +1,13 @@
+NOTE: Jenner v1.5.30 (build v1.5.30+unknown.20260714T043649Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA solve_alg
+
+
+NOTE: Wrote solve_alg (2 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC PRINT data=solve_alg
+
+NOTE: PROC PRINT completed: 2 observations printed, 6 variables

@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-14T05:43:47Z",
+  "_captured_run_id": "r_6f0c781869434ac7a980b2e7c73c9d3f",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Option OBS changed to 100.",
+    "NOTE: Wrote solve_alg (2 rows, 6 columns).",
+    "NOTE: PROC PRINT completed: 2 observations printed, 6 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
