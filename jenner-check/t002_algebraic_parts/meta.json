@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_algebraic_parts",
+  "source_file": "utl-altair-slc-sympy-complex-analysis-finding-the-roots-of-square-and-cube-roots-of-minus-one.sas",
+  "source_blob_sha": "5dd36bd097b9fec46651e3d83a3e09f28daebe56",
+  "source_commit": "98269f08d73e9f04a04fbf56bee79dfb9a1acc15",
+  "notes": "Realizes the post's algebraic derivation (section 3b): expands (a - b*i)**2 = (a**2 - b**2) - 2*a*b*i, matches real and imaginary parts against -1 + 0i, and reports the two roots +/-i. A distinct technique from the De Moivre bundle. Deterministic across repeated POSTs."
+}

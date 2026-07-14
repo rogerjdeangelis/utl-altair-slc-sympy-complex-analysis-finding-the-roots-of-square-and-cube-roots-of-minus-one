@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_de_moivre_roots",
+  "source_file": "utl-altair-slc-sympy-complex-analysis-finding-the-roots-of-square-and-cube-roots-of-minus-one.sas",
+  "source_blob_sha": "5dd36bd097b9fec46651e3d83a3e09f28daebe56",
+  "source_commit": "98269f08d73e9f04a04fbf56bee79dfb9a1acc15",
+  "notes": "Realizes the post's own De Moivre nth-root formula (section 3a/3c) in native SAS: computes the 2 roots of sqrt(-1) and the 3 roots of cube-root(-1), then verifies each satisfies (a-I*b)**n + 1 = 0 -- the equation the post solves symbolically. The SymPy/SLC bridge (%slc_pybegin) is replaced by DATA-step trig + complex-power arithmetic. Deterministic across repeated POSTs."
+}

@@ -1,0 +1,7 @@
+                     Square root of -1 by matching real and imaginary parts (algebraic, section 3b)
+
+a   b  Re[(a-bi)**2]  Im[(a-bi)**2]  Re[root]  Im[root]
+0  -1             -1              0         0         1
+0   1             -1              0         0        -1
+
+

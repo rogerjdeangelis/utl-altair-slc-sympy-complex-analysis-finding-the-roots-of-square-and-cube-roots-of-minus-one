@@ -1,0 +1,10 @@
+                        Roots of the square and cube roots of -1, verified against z**n + 1 = 0
+
+          Problem  n  k          Real          Imag  z**n + 1 = 0 ?
+square root of -1  2  0   0.000000000   1.000000000               1
+square root of -1  2  1   0.000000000  -1.000000000               1
+cube root of -1    3  0   0.500000000   0.866025404               1
+cube root of -1    3  1  -1.000000000   0.000000000               1
+cube root of -1    3  2   0.500000000  -0.866025404               1
+
+
